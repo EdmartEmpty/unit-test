@@ -1,0 +1,19 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmartEmpty/unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdmartEmpty/unit-test/issues"
+  },
+  "homepage": "https://github.com/EdmartEmpty/unit-test#readme",
+  "description": ""
+}
